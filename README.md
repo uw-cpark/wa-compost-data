@@ -8,7 +8,7 @@ The curated dataset combines both original datasets' information and removing an
 
 ## Naming Convention
 
-Naming convention for the files are as follows:
+Naming convention for the files is as follows:
 ```
 yyyy-yyyy_materials_composted_{description}
 ```
