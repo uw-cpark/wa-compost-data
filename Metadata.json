@@ -1,0 +1,41 @@
+{
+  "title": "Curation Protocol: Washington Compost Data",
+  "description": "This dataset was curated for the LIS 545 Data Curation course at the University of Washington, Information School. It consolidates compost data from the Washington State Department of Ecology and covers the annual tonnage of materials composted by type and year.",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema/",
+  "contactPoint": {
+    "fn": "Connie Cheng | Christine Park",
+    "hasEmail": "cocheng@uw.edu | cjpark23@uw.edu"
+	   },
+  "dataset": [
+	 {
+	"accessLevel": "Public",
+	"distribution": [
+	   {
+		"landingPage": "https://github.com/uw-cpark/wa-compost-data",
+		"downloadURL": "https://github.com/uw-cpark/wa-compost-data/raw/main/2015-2020_materials_composted_consolidated.xlsx",
+		"description": "A .XLSX file containing the consolidated dataset created from the Department of Ecology's compost data."	
+	   }
+      ],
+	"describedBy": "https://github.com/uw-cpark/wa-compost-data/blob/main/README.md",
+	"keyword": [
+		"Washington",
+		"Department of Ecology",
+		"ecology",
+		"compost",
+		"waste reduction",
+		"organic waste",
+		"food waste",
+		"biosolids",
+		"compost data",
+        "data"
+        ],
+    "spatial": "State of Washington",
+	"temporal": "2015 - 2020",
+	"publisher": "Connie Cheng & Christine Park",
+	"references": "https://ecology.wa.gov/Waste-Toxics/Reducing-recycling-waste/Waste-reduction-programs/Organic-materials/Managing-organics-compost",
+    "identifier": "https://github.com/uw-cpark/wa-compost-data",
+	"modified": "March 9, 2023",
+	"rights": "This data is freely available to the public."
+	 }
+    ]
+}
